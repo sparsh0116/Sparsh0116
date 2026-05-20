@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sparsh Shreyash</h1>
-<h3 align="center">A CSE Undergrad from SRMIST and a Front-end Developer</h3>
+<h3 align="center"> A AIML Engineer Intern | Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh0116&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh0116" /> </p>
 
-- 🌱 I’m currently learning **Web Development/ Designing**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/files/recent?fuid=1127658268293982143](https://www.figma.com/files/recent?fuid=1127658268293982143)
 
