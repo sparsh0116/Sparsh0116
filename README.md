@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Shreyash</h1>
-<h3 align="center"> A AIML Engineer Intern | Full-Stack Developer</h3>
+<h3 align="center"> An AIML Engineer Intern | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh0116&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh0116" /> </p>
 
